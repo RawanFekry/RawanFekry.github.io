@@ -213,7 +213,7 @@ In the prevoius example the output will be :
 Value of var :3000
 Value of ptr :0xbff64494    
 ```
-# 2.1.3: 
+# 2.1.3: Declare a refrence to a type:
 
 -using & in the left-hand side of a variable declaration meaning that you expect to have a reference to the declared type.
 -It can be used in any type of declarations (local variables, class members, method parameters).
